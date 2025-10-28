@@ -1,0 +1,34 @@
+{
+  "name": "ui-design-system",
+  "displayName": "UI Design System",
+  "description": "Complete UI/UX design system for React Native & Next.js - greenfield and brownfield projects",
+  "version": "1.0.0",
+  "author": "apexscaleai",
+  "repository": "https://github.com/apexscaleai/claude-ui-design-system",
+  "skills": [
+    {
+      "id": "design-system-foundation",
+      "name": "Design System Foundation",
+      "description": "Set up design tokens, structure, and theme system for new projects",
+      "path": "foundation/design-system-foundation"
+    },
+    {
+      "id": "design-preset-system",
+      "name": "Design Preset System",
+      "description": "Apply and switch between 6 curated design presets",
+      "path": "presets/design-preset-system"
+    },
+    {
+      "id": "ui-refactoring-workflow",
+      "name": "UI Refactoring Workflow",
+      "description": "Refactor existing UI code with modern design principles",
+      "path": "refactoring/ui-refactoring-workflow"
+    },
+    {
+      "id": "aesthetic-excellence",
+      "name": "Aesthetic Excellence",
+      "description": "Improve visual hierarchy, spacing, color theory, and typography",
+      "path": "enhancement/aesthetic-excellence"
+    }
+  ]
+}

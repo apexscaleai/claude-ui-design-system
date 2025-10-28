@@ -27,7 +27,18 @@ Choose from 6 curated design styles:
 
 ## Installation
 
-### Method 1: Personal Skills (Recommended)
+### Method 1: Plugin Marketplace (Easiest) ⭐
+Install via Claude Code plugin system:
+
+```bash
+# In Claude Code, run:
+/plugin marketplace add apexscaleai/claude-ui-design-system
+/plugin install ui-design-system@ui-design-system
+```
+
+Restart Claude Code. Skills are now available!
+
+### Method 2: Personal Skills (Manual)
 Install globally for use across all projects:
 
 ```bash
@@ -37,7 +48,7 @@ git clone https://github.com/apexscaleai/claude-ui-design-system
 
 Restart Claude Code. Skills are now available!
 
-### Method 2: Project Skills (Team)
+### Method 3: Project Skills (Team)
 Install for specific project (team-shared):
 
 ```bash
