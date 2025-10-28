@@ -1,0 +1,16 @@
+{
+  "name": "ui-design-system",
+  "version": "1.0.0",
+  "description": "Complete UI/UX design system for React Native & Next.js with 4 core skills",
+  "author": {
+    "name": "ApexScale AI",
+    "url": "https://github.com/apexscaleai"
+  },
+  "keywords": ["ui", "ux", "design-system", "react-native", "nextjs", "design-tokens", "refactoring", "accessibility"],
+  "license": "MIT",
+  "homepage": "https://github.com/apexscaleai/claude-ui-design-system",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apexscaleai/claude-ui-design-system"
+  }
+}
