@@ -12,5 +12,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/apexscaleai/claude-ui-design-system"
-  }
+  },
+  "commands": [
+    ".claude-plugin/commands/design-foundation.md",
+    ".claude-plugin/commands/refactor-ui.md",
+    ".claude-plugin/commands/apply-preset.md",
+    ".claude-plugin/commands/improve-aesthetics.md"
+  ]
 }
