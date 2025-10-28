@@ -23,8 +23,8 @@
       "keywords": ["ui", "ux", "design-system", "react-native", "nextjs", "design-tokens", "refactoring", "accessibility"],
       "category": "design",
       "source": {
-        "source": "github",
-        "repo": "apexscaleai/claude-ui-design-system"
+        "source": "url",
+        "url": "https://github.com/apexscaleai/claude-ui-design-system.git"
       }
     }
   ]
