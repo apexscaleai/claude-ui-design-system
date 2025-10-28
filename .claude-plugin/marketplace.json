@@ -1,5 +1,5 @@
 {
-  "name": "UI Design System Marketplace",
+  "name": "ui-design-system-marketplace",
   "owner": {
     "name": "ApexScale AI",
     "email": "hello@apexscale.ai"
@@ -18,10 +18,7 @@
         "url": "https://github.com/apexscaleai"
       },
       "homepage": "https://github.com/apexscaleai/claude-ui-design-system",
-      "repository": {
-        "type": "git",
-        "url": "https://github.com/apexscaleai/claude-ui-design-system"
-      },
+      "repository": "https://github.com/apexscaleai/claude-ui-design-system",
       "license": "MIT",
       "keywords": ["ui", "ux", "design-system", "react-native", "nextjs", "design-tokens", "refactoring", "accessibility"],
       "category": "design",
